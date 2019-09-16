@@ -3,6 +3,6 @@ void main() {
 
 factorial();
 biggestof3();
-palindome();
+palindrome();
 
 }
