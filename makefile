@@ -11,4 +11,4 @@ biggestof3.o: biggestof3.c
 	gcc -c biggestof3.c
 
 palindrome.o: palindrome.c
-	gcc -c palindome.c
+	gcc -c palindrome.c
