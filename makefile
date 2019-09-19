@@ -12,3 +12,6 @@ biggestof3.o: biggestof3.c
 
 palindrome.o: palindrome.c
 	gcc -c palindrome.c
+
+clean :
+	rm -rf *.o
